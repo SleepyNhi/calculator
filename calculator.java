@@ -1,6 +1,6 @@
  
 
-/* Nhi Tuong CSC 3410 MW
+/* Nhi Tuong CSC
  * 
  * 1) To gain experience with stacks & convert equations to infix to postfix
  * 2) Program checks for errors in given equations and then rearrange the equation based on postfix algorithm/rules 
